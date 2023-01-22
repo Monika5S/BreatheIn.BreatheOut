@@ -1,0 +1,21 @@
+{
+  "name": "breathe-in-breathe-out",
+  "version": "1.0.0",
+  "description": "Focusing on Mental Welling. \nDeep Breathing is the effective one to calm down the mind.\nSo here you can practice your breathing and analyze. Also get suggestions to calm down your mind.\n\nThis project is part of my submission to HackFit 2.",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "parcel-bundler": "^1.6.1"
+  },
+  "devDependencies": {
+    "@babel/core": "7.2.0",
+    "typescript": "4.4.4"
+  },
+  "resolutions": {
+    "@babel/preset-env": "7.13.8"
+  },
+  "keywords": []
+}
