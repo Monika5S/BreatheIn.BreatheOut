@@ -31,7 +31,7 @@ function showActivity(response) {
 }
 
 function getActivity() {
-  axios.get("activities.json").then(showActivity);
+  axios.get("./activities/activities.json").then(showActivity);
 }
 
 let endTime;
@@ -47,17 +47,17 @@ chart = new Chart(document.getElementById("time-chart"), {
       {
         label: "Time (s)",
         data: timeData,
-        backgroundColor: "rgb(255, 99, 132)"
-      }
-    ]
+        backgroundColor: "rgb(255, 99, 132)",
+      },
+    ],
   },
   options: {
     scales: {
       y: {
-        beginAtZero: true
-      }
-    }
-  }
+        beginAtZero: true,
+      },
+    },
+  },
 });
 
 document.querySelector(".btn-primary").addEventListener("click", startActivity);
