@@ -1,6 +1,6 @@
 # BreatheIn.BreatheOut
 
-![Project-HomePage]("https://github.com/Monika5S/BreatheIn.BreatheOut/blob/main/media/breatheIn.jpg") ![activity suggestion]("https://github.com/Monika5S/BreatheIn.BreatheOut/blob/main/media/activity.jpg")
+<img src="https://github.com/Monika5S/BreatheIn.BreatheOut/blob/main/media/breatheIn.jpg"> <img src="https://github.com/Monika5S/BreatheIn.BreatheOut/blob/main/media/activity.jpg">
 
 See [Devpost Submission]("https://github.com/Monika5S/BreatheIn.BreatheOut/blob/main/media/activity.jpg")
 
