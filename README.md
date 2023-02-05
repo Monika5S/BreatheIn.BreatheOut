@@ -1,8 +1,9 @@
 # BreatheIn.BreatheOut
 
-<img src="https://github.com/Monika5S/BreatheIn.BreatheOut/blob/main/media/breatheIn.jpg" width="60%"> <img src="https://github.com/Monika5S/BreatheIn.BreatheOut/blob/main/media/activity.jpg">
+<img src="https://github.com/Monika5S/BreatheIn.BreatheOut/blob/main/media/breatheIn.jpg" width="80%"> 
+<img src="https://github.com/Monika5S/BreatheIn.BreatheOut/blob/main/media/activity.jpg" width="80%">
 
-<a href="https://github.com/Monika5S/BreatheIn.BreatheOut/blob/main/media/activity.jpg" width="60%">See Devpost Submission</a>
+<a href="https://github.com/Monika5S/BreatheIn.BreatheOut/blob/main/media/activity.jpg" >See Devpost Submission</a>
 
 ---
 
