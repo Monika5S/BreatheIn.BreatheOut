@@ -1,9 +1,11 @@
 function hideBubble() {
   document.querySelector(".container").style.display = "none";
   document.querySelector(".circle").style.display = "none";
+  document.querySelector(".yoga-pose").style.display = "block";
 }
 
 function startActivity() {
+  document.querySelector(".yoga-pose").style.display = "none";
   document.querySelector(".container").style.display = "block";
   document.querySelector(".circle").style.display = "block";
   startTime = new Date();

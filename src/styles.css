@@ -60,16 +60,20 @@ a {
   width: 90%;
   height: 90%;
   border-radius: 50%;
-  background: linear-gradient(to bottom, #d29ffe 0%, #181a78 100%);
   position: absolute;
   top: 10%;
   left: 5%;
+  background: url("/media/lotus.svg"), linear-gradient(to bottom, #d29ffe 0%, #181a78 100%);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
 }
 
 @keyframes text {
   0% {
     content: "Breathe In";
   }
+
   100% {
     content: "Breathe Out";
   }
@@ -79,9 +83,11 @@ a {
   0% {
     transform: scale(0.6);
   }
+
   50% {
     transform: scale(1);
   }
+
   100% {
     transform: scale(0.6);
   }
@@ -115,4 +121,11 @@ a {
 
 .activity img {
   width: 60%;
+}
+
+.yoga-pose img {
+  width: 250px;
+  height: 250px;
+  border-radius: 50%;
+  box-shadow: 3px 2px 3px rgb(92, 49, 211);
 }
